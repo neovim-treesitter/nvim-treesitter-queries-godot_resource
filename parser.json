@@ -1,7 +1,7 @@
 {
+  "lang": "godot_resource",
+  "url": "https://github.com/PrestonKnopp/tree-sitter-godot-resource",
   "semver": false,
   "parser_version": "302c1895f54bf74d53a08572f7b26a6614209adc",
-  "location": null,
-  "url": "https://github.com/PrestonKnopp/tree-sitter-godot-resource",
-  "lang": "godot_resource"
+  "location": null
 }
